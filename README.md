@@ -13,7 +13,7 @@ Because I want people to have a way to tell me what they think I can do best.
 
 ### Where
 
-In the [issues](/issues).
+In the [issues](https://github.com/RichardLitt/todo/issues).
 
 ### Who
 
